@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\BMIApp\BMIApp\bin\Debug\BMIApp.exe.config
+C:\Users\lukas\source\repos\BMIApp\BMIApp\bin\Debug\BMIApp.exe
+C:\Users\lukas\source\repos\BMIApp\BMIApp\bin\Debug\BMIApp.pdb
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.Form1.resources
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.Properties.Resources.resources
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.exe
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.pdb
+C:\Users\lukas\source\repos\BMIApp\BMIApp\bin\Debug\BMIApp.exe.manifest
+C:\Users\lukas\source\repos\BMIApp\BMIApp\bin\Debug\BMIApp.application
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.exe.manifest
+C:\Users\lukas\source\repos\BMIApp\BMIApp\obj\Debug\BMIApp.application
